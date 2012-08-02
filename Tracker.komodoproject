@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Komodo Project File - DO NOT EDIT -->
 <project id="14e32f26-1292-4234-80b7-cd1f5f5e0fd3" kpf_version="5" name="Tracker.komodoproject">
+<file id="560ecf3a-addc-41e1-8280-4e9f3f0f22b3" idref="14e32f26-1292-4234-80b7-cd1f5f5e0fd3" name="config.xml" url="config.xml">
+</file>
+<file id="d1414dce-7153-4804-87fd-ddc8266d0543" idref="14e32f26-1292-4234-80b7-cd1f5f5e0fd3" name="index.html" url="index.html">
+</file>
 </project>
